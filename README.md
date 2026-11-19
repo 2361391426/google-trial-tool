@@ -1,6 +1,7 @@
 # Google AI Trial Tool
 
 内容为转载，来自q群797481450
+这次的会封号 ，涉及工具调用，慎用
 
 
 通过 Frida 注入 Google One 进程调用 BillingClient API，发现并激活隐藏的 $0 免费试用。

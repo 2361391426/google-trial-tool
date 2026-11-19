@@ -1,6 +1,7 @@
 # Google AI Trial Tool
 
-内容为转载，来自q群
+内容为转载，来自q群797481450
+
 
 通过 Frida 注入 Google One 进程调用 BillingClient API，发现并激活隐藏的 $0 免费试用。
 
@@ -115,3 +116,7 @@ App 界面"升级"按钮走的是不带试用的 ID（`g1.2tb.ai` 等）。
 
 - `auto-trial.sh` — Shell 启动器，自动检测设备、管理 frida-server、注入脚本、监控结果
 - `frida-auto-trial.js` — Frida 注入脚本，通过 DexClassLoader 加载 BillingClient 查询和激活试用
+
+
+
+羊毛交流群 t.me/muihbb

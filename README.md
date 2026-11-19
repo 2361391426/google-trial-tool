@@ -1,7 +1,6 @@
 # Google AI Trial Tool
 
-- 博客：https://blog.caowo.de/
-- 发卡网：https://faka.cdkey.si/
+
 
 通过 Frida 注入 Google One 进程调用 BillingClient API，发现并激活隐藏的 $0 免费试用。
 
